@@ -8,4 +8,4 @@ I enjoy exploring how technology can solve business problems, analyzing informat
 
 This portfolio was created to showcase my academic projects/progress, analytical abilities, and technical skills. It highlights my experience and ongoing development in tools such as Excel, SQL, Power BI, Python, and Microsoft PowerPoint, along with my understanding of business operations and project management.
 
-Feel free to explore my projects to learn more about my skills, interests, and professional development!
+Feel free to explore my projects to learn more about my skills, interests, and professional development.
